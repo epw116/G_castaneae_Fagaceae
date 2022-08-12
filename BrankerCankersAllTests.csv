@@ -1,0 +1,841 @@
+Treatment,Test,Species,Canker.Area
+Erie,Endo,Red,87.9645943
+University Park,Endo,Red,692.7211801
+University Park,Endo,Red,328.2964323
+University Park Control,Endo,Red,56.54866776
+Maryland,Endo,Red,461.8141201
+Erie Control,Endo,Red,119.3805208
+Erie Control,Endo,Red,38.48451001
+Erie Control,Endo,Red,81.68140899
+Maryland Control,Endo,Red,82.46680716
+University Park,Endo,Red,424.1150082
+Erie,Endo,Red,100.5309649
+Erie,Endo,Red,138.2300768
+Maryland,Endo,Red,113.0973355
+Maryland,Endo,Red,100.5309649
+Maryland Control,Endo,Red,38.48451001
+Maryland Control,Endo,Red,157.0796327
+Maryland,Endo,Red,198.7057353
+Maryland Control,Endo,Red,100.5309649
+University Park,Endo,Red,235.619449
+Maryland Control,Endo,Red,82.46680716
+University Park Control,Endo,Red,49.48008429
+Erie Control,Endo,Red,37.69911184
+Erie Control,Endo,Red,62.83185307
+Erie,Endo,Red,208.9159115
+Erie,Endo,Red,736.7034773
+Maryland Control,Endo,Red,54.97787144
+Maryland,Endo,Red,188.4955592
+University Park Control,Endo,Red,43.98229715
+Maryland,Endo,Red,87.9645943
+University Park Control,Endo,Red,38.48451001
+University Park,Endo,Red,94.24777961
+Erie,Endo,Red,274.8893572
+University Park,Endo,Red,369.1371368
+University Park Control,Endo,Red,233.2632545
+University Park Control,Endo,Red,70.68583471
+Erie Control,Endo,Red,540.3539364
+Erie,Endo,Pin,106.0287521
+University Park,Endo,Pin,43.98229715
+University Park,Endo,Pin,243.4734307
+University Park Control,Endo,Pin,47.1238898
+Maryland,Endo,Pin,84.82300165
+Erie Control,Endo,Pin,43.98229715
+Erie Control,Endo,Pin,37.69911184
+Erie Control,Endo,Pin,32.98672286
+Maryland Control,Endo,Pin,32.98672286
+University Park,Endo,Pin,62.83185307
+Erie,Endo,Pin,49.48008429
+Erie,Endo,Pin,32.98672286
+Maryland,Endo,Pin,60.47565858
+Maryland,Endo,Pin,60.47565858
+Maryland Control,Endo,Pin,69.11503838
+Maryland Control,Endo,Pin,32.98672286
+Maryland,Endo,Pin,84.82300165
+Maryland Control,Endo,Pin,204.2035225
+University Park,Endo,Pin,62.83185307
+Maryland Control,Endo,Pin,207.3451151
+University Park Control,Endo,Pin,37.69911184
+Erie Control,Endo,Pin,133.5176878
+Erie Control,Endo,Pin,37.69911184
+Erie,Endo,Pin,120.9513172
+Erie,Endo,Pin,164.9336143
+Maryland Control,Endo,Pin,590.6194189
+Maryland,Endo,Pin,60.47565858
+University Park Control,Endo,Pin,37.69911184
+Maryland,Endo,Pin,47.1238898
+University Park Control,Endo,Pin,32.98672286
+University Park,Endo,Pin,235.619449
+Erie,Endo,Pin,400.5530633
+University Park,Endo,Pin,104.4579557
+University Park Control,Endo,Pin,38.48451001
+University Park Control,Endo,Pin,307.8760801
+Erie Control,Endo,Pin,81.68140899
+Erie,Endo,White,388.7720909
+University Park,Endo,White,251.3274123
+University Park,Endo,White,94.24777961
+University Park Control,Endo,White,98.17477042
+Maryland,Endo,White,56.54866776
+Erie Control,Endo,White,43.98229715
+Erie Control,Endo,White,62.83185307
+Erie Control,Endo,White,42.41150082
+Maryland Control,Endo,White,69.11503838
+University Park,Endo,White,69.11503838
+Erie,Endo,White,60.47565858
+Erie,Endo,White,207.3451151
+Maryland,Endo,White,49.48008429
+Maryland,Endo,White,56.54866776
+Maryland Control,Endo,White,38.48451001
+Maryland Control,Endo,White,62.83185307
+Maryland,Endo,White,54.97787144
+Maryland Control,Endo,White,32.98672286
+University Park,Endo,White,94.24777961
+Maryland Control,Endo,White,78.53981634
+University Park Control,Endo,White,37.69911184
+Erie Control,Endo,White,628.3185307
+Erie Control,Endo,White,38.48451001
+Erie,Endo,White,98.96016859
+Erie,Endo,White,37.69911184
+Maryland Control,Endo,White,119.3805208
+Maryland,Endo,White,149.225651
+University Park Control,Endo,White,43.98229715
+Maryland,Endo,White,56.54866776
+University Park Control,Endo,White,54.97787144
+University Park,Endo,White,50.26548246
+Erie,Endo,White,126.4491043
+University Park,Endo,White,84.82300165
+University Park Control,Endo,White,196.3495408
+University Park Control,Endo,White,714.7123287
+Erie Control,Endo,White,43.98229715
+Erie,Endo,Beech,43.98229715
+University Park,Endo,Beech,78.53981634
+University Park,Endo,Beech,424.1150082
+University Park Control,Endo,Beech,424.1150082
+Maryland,Endo,Beech,194.7787445
+Erie Control,Endo,Beech,172.7875959
+Erie Control,Endo,Beech,125.6637061
+Erie Control,Endo,Beech,32.98672286
+Maryland Control,Endo,Beech,56.54866776
+University Park,Endo,Beech,235.619449
+Erie,Endo,Beech,38.48451001
+Erie,Endo,Beech,98.96016859
+Maryland,Endo,Beech,227.7654674
+Maryland,Endo,Beech,311.0176727
+Maryland Control,Endo,Beech,91.89158512
+Maryland Control,Endo,Beech,180.6415776
+Maryland,Endo,Beech,134.3030859
+Maryland Control,Endo,Beech,28.27433388
+University Park,Endo,Beech,413.9048321
+Maryland Control,Endo,Beech,69.11503838
+University Park Control,Endo,Beech,176.7145868
+Erie Control,Endo,Beech,925.1990365
+Erie Control,Endo,Beech,43.98229715
+Erie,Endo,Beech,275.6747554
+Erie,Endo,Beech,71.47123287
+Maryland Control,Endo,Beech,311.0176727
+Maryland,Endo,Beech,138.2300768
+University Park Control,Endo,Beech,84.82300165
+Maryland,Endo,Beech,376.9911184
+University Park Control,Endo,Beech,70.68583471
+University Park,Endo,Beech,71.47123287
+Erie,Endo,Beech,43.98229715
+University Park,Endo,Beech,54.97787144
+University Park Control,Endo,Beech,38.48451001
+University Park Control,Endo,Beech,571.769863
+Erie Control,Endo,Beech,180.6415776
+Erie,Endo,American,155.5088364
+University Park,Endo,American,400.5530633
+University Park,Endo,American,398.1968688
+University Park Control,Endo,American,70.68583471
+Maryland,Endo,American,69.11503838
+Erie Control,Endo,American,275.6747554
+Erie Control,Endo,American,172.7875959
+Erie Control,Endo,American,27.48893572
+Maryland Control,Endo,American,
+University Park,Endo,American,1021.017612
+Erie,Endo,American,37.69911184
+Erie,Endo,American,467.3119072
+Maryland,Endo,American,320.4424507
+Maryland,Endo,American,141.3716694
+Maryland Control,Endo,American,32.98672286
+Maryland Control,Endo,American,133.5176878
+Maryland,Endo,American,226.1946711
+Maryland Control,Endo,American,43.98229715
+University Park,Endo,American,113.0973355
+Maryland Control,Endo,American,37.69911184
+University Park Control,Endo,American,38.48451001
+Erie Control,Endo,American,32.98672286
+Erie Control,Endo,American,69.11503838
+Erie,Endo,American,62.83185307
+Erie,Endo,American,857.6547944
+Maryland Control,Endo,American,62.83185307
+Maryland,Endo,American,607.8981785
+University Park Control,Endo,American,43.98229715
+Maryland,Endo,American,816.8140899
+University Park Control,Endo,American,32.98672286
+University Park,Endo,American,942.4777961
+Erie,Endo,American,38.48451001
+University Park,Endo,American,1209.513172
+University Park Control,Endo,American,169.6460033
+University Park Control,Endo,American,38.48451001
+Erie Control,Endo,American,43.98229715
+Erie,Endo,Chinese,94.24777961
+University Park,Endo,Chinese,1138.827337
+University Park,Endo,Chinese,62.83185307
+University Park Control,Endo,Chinese,54.97787144
+Maryland,Endo,Chinese,87.9645943
+Erie Control,Endo,Chinese,65.97344573
+Erie Control,Endo,Chinese,100.5309649
+Erie Control,Endo,Chinese,56.54866776
+Maryland Control,Endo,Chinese,76.96902001
+University Park,Endo,Chinese,874.1481559
+Erie,Endo,Chinese,2002.765317
+Erie,Endo,Chinese,56.54866776
+Maryland,Endo,Chinese,51.83627878
+Maryland,Endo,Chinese,69.11503838
+Maryland Control,Endo,Chinese,520.7189823
+Maryland Control,Endo,Chinese,2238.384766
+Maryland,Endo,Chinese,43.98229715
+Maryland Control,Endo,Chinese,38.48451001
+University Park,Endo,Chinese,486.9468613
+Maryland Control,Endo,Chinese,94.24777961
+University Park Control,Endo,Chinese,42.41150082
+Erie Control,Endo,Chinese,49.48008429
+Erie Control,Endo,Chinese,32.98672286
+Erie,Endo,Chinese,54.97787144
+Erie,Endo,Chinese,2709.623664
+Maryland Control,Endo,Chinese,62.83185307
+Maryland,Endo,Chinese,119.3805208
+University Park Control,Endo,Chinese,56.54866776
+Maryland,Endo,Chinese,65.97344573
+University Park Control,Endo,Chinese,49.48008429
+University Park,Endo,Chinese,49.48008429
+Erie,Endo,Chinese,351.8583772
+University Park,Endo,Chinese,62.83185307
+University Park Control,Endo,Chinese,38.48451001
+University Park Control,Endo,Chinese,60.47565858
+Erie Control,Endo,Chinese,196.3495408
+Erie,Endo,Hybrid,122.5221135
+University Park,Endo,Hybrid,43.98229715
+University Park,Endo,Hybrid,69.11503838
+University Park Control,Endo,Hybrid,100.5309649
+Maryland,Endo,Hybrid,127.2345025
+Erie Control,Endo,Hybrid,38.48451001
+Erie Control,Endo,Hybrid,70.68583471
+Erie Control,Endo,Hybrid,37.69911184
+Maryland Control,Endo,Hybrid,38.48451001
+University Park,Endo,Hybrid,65.97344573
+Erie,Endo,Hybrid,32.98672286
+Erie,Endo,Hybrid,60.47565858
+Maryland,Endo,Hybrid,77.75441818
+Maryland,Endo,Hybrid,32.98672286
+Maryland Control,Endo,Hybrid,75.39822369
+Maryland Control,Endo,Hybrid,38.48451001
+Maryland,Endo,Hybrid,43.98229715
+Maryland Control,Endo,Hybrid,43.98229715
+University Park,Endo,Hybrid,197.9203372
+Maryland Control,Endo,Hybrid,181.4269757
+University Park Control,Endo,Hybrid,38.48451001
+Erie Control,Endo,Hybrid,38.48451001
+Erie Control,Endo,Hybrid,333.7942194
+Erie,Endo,Hybrid,84.82300165
+Erie,Endo,Hybrid,507.3672136
+Maryland Control,Endo,Hybrid,75.39822369
+Maryland,Endo,Hybrid,204.2035225
+University Park Control,Endo,Hybrid,43.98229715
+Maryland,Endo,Hybrid,565.4866776
+University Park Control,Endo,Hybrid,60.47565858
+University Park,Endo,Hybrid,54.97787144
+Erie,Endo,Hybrid,38.48451001
+University Park,Endo,Hybrid,38.48451001
+University Park Control,Endo,Hybrid,84.82300165
+University Park Control,Endo,Hybrid,43.98229715
+Erie Control,Endo,Hybrid,38.48451001
+Erie,Eco,Red,93.46238144
+Erie,Eco,Red,65.97344573
+Erie,Eco,Red,32.98672286
+Erie,Eco,Red,1374.446786
+Erie,Eco,Red,28.27433388
+Erie,Eco,Red,367.5663405
+Erie Control,Eco,Red,612.6105675
+Erie Control,Eco,Red,54.97787144
+Erie Control,Eco,Red,54.97787144
+Erie Control,Eco,Red,87.9645943
+Erie Control,Eco,Red,81.68140899
+Erie Control,Eco,Red,23.5619449
+Maryland,Eco,Red,259.1813939
+Maryland,Eco,Red,82.46680716
+Maryland,Eco,Red,38.48451001
+Maryland,Eco,Red,204.2035225
+Maryland,Eco,Red,417.8318229
+Maryland,Eco,Red,94.24777961
+Maryland Control,Eco,Red,28.27433388
+Maryland Control,Eco,Red,23.5619449
+Maryland Control,Eco,Red,65.97344573
+Maryland Control,Eco,Red,28.27433388
+Maryland Control,Eco,Red,62.83185307
+Maryland Control,Eco,Red,49.48008429
+University Park,Eco,Red,172.7875959
+University Park,Eco,Red,530.1437603
+University Park,Eco,Red,82.46680716
+University Park,Eco,Red,62.83185307
+University Park,Eco,Red,603.1857895
+University Park,Eco,Red,62.83185307
+University Park Control,Eco,Red,42.41150082
+University Park Control,Eco,Red,106.8141502
+University Park Control,Eco,Red,75.39822369
+University Park Control,Eco,Red,28.27433388
+University Park Control,Eco,Red,28.27433388
+University Park Control,Eco,Red,28.27433388
+Erie,Eco,Pin,32.98672286
+Erie,Eco,Pin,37.69911184
+Erie,Eco,Pin,28.27433388
+Erie,Eco,Pin,98.96016859
+Erie,Eco,Pin,28.27433388
+Erie,Eco,Pin,23.5619449
+Erie Control,Eco,Pin,230.90706
+Erie Control,Eco,Pin,87.9645943
+Erie Control,Eco,Pin,94.24777961
+Erie Control,Eco,Pin,113.0973355
+Erie Control,Eco,Pin,197.9203372
+Erie Control,Eco,Pin,28.27433388
+Maryland,Eco,Pin,27.48893572
+Maryland,Eco,Pin,1021.017612
+Maryland,Eco,Pin,357.3561643
+Maryland,Eco,Pin,87.9645943
+Maryland,Eco,Pin,38.48451001
+Maryland,Eco,Pin,75.39822369
+Maryland Control,Eco,Pin,47.1238898
+Maryland Control,Eco,Pin,138.2300768
+Maryland Control,Eco,Pin,172.7875959
+Maryland Control,Eco,Pin,219.1260876
+Maryland Control,Eco,Pin,78.53981634
+Maryland Control,Eco,Pin,94.24777961
+University Park,Eco,Pin,42.41150082
+University Park,Eco,Pin,28.27433388
+University Park,Eco,Pin,65.97344573
+University Park,Eco,Pin,577.2676501
+University Park,Eco,Pin,81.68140899
+University Park,Eco,Pin,77.75441818
+University Park Control,Eco,Pin,384.8451001
+University Park Control,Eco,Pin,77.75441818
+University Park Control,Eco,Pin,235.619449
+University Park Control,Eco,Pin,
+University Park Control,Eco,Pin,223.8384766
+University Park Control,Eco,Pin,103.6725576
+Erie,Eco,White,82.46680716
+Erie,Eco,White,43.98229715
+Erie,Eco,White,81.68140899
+Erie,Eco,White,38.48451001
+Erie,Eco,White,84.82300165
+Erie,Eco,White,62.83185307
+Erie Control,Eco,White,201.0619298
+Erie Control,Eco,White,23.5619449
+Erie Control,Eco,White,141.3716694
+Erie Control,Eco,White,43.98229715
+Erie Control,Eco,White,23.5619449
+Erie Control,Eco,White,179.0707813
+Maryland,Eco,White,38.48451001
+Maryland,Eco,White,32.98672286
+Maryland,Eco,White,102.1017612
+Maryland,Eco,White,37.69911184
+Maryland,Eco,White,43.98229715
+Maryland,Eco,White,38.48451001
+Maryland Control,Eco,White,23.5619449
+Maryland Control,Eco,White,32.98672286
+Maryland Control,Eco,White,56.54866776
+Maryland Control,Eco,White,28.27433388
+Maryland Control,Eco,White,32.98672286
+Maryland Control,Eco,White,43.98229715
+University Park,Eco,White,65.97344573
+University Park,Eco,White,268.6061719
+University Park,Eco,White,54.97787144
+University Park,Eco,White,37.69911184
+University Park,Eco,White,28.27433388
+University Park,Eco,White,62.83185307
+University Park Control,Eco,White,388.7720909
+University Park Control,Eco,White,28.27433388
+University Park Control,Eco,White,28.27433388
+University Park Control,Eco,White,23.5619449
+University Park Control,Eco,White,414.6902303
+University Park Control,Eco,White,23.5619449
+Erie,Eco,Beech,298.4513021
+Erie,Eco,Beech,19.63495408
+Erie,Eco,Beech,28.27433388
+Erie,Eco,Beech,28.27433388
+Erie,Eco,Beech,345.5751919
+Erie,Eco,Beech,895.3539063
+Erie Control,Eco,Beech,197.9203372
+Erie Control,Eco,Beech,270.1769682
+Erie Control,Eco,Beech,552.920307
+Erie Control,Eco,Beech,196.3495408
+Erie Control,Eco,Beech,138.2300768
+Erie Control,Eco,Beech,384.8451001
+Maryland,Eco,Beech,127.2345025
+Maryland,Eco,Beech,224.6238747
+Maryland,Eco,Beech,49.48008429
+Maryland,Eco,Beech,131.9468915
+Maryland,Eco,Beech,71.47123287
+Maryland,Eco,Beech,50.26548246
+Maryland Control,Eco,Beech,32.98672286
+Maryland Control,Eco,Beech,243.4734307
+Maryland Control,Eco,Beech,219.1260876
+Maryland Control,Eco,Beech,127.2345025
+Maryland Control,Eco,Beech,527.7875658
+Maryland Control,Eco,Beech,82.46680716
+University Park,Eco,Beech,180.6415776
+University Park,Eco,Beech,113.0973355
+University Park,Eco,Beech,172.7875959
+University Park,Eco,Beech,201.0619298
+University Park,Eco,Beech,106.8141502
+University Park,Eco,Beech,275.6747554
+University Park Control,Eco,Beech,314.1592654
+University Park Control,Eco,Beech,23.5619449
+University Park Control,Eco,Beech,19.63495408
+University Park Control,Eco,Beech,19.63495408
+University Park Control,Eco,Beech,23.5619449
+University Park Control,Eco,Beech,75.39822369
+Erie,Eco,American,75.39822369
+Erie,Eco,American,19.63495408
+Erie,Eco,American,82.46680716
+Erie,Eco,American,134.3030859
+Erie,Eco,American,155.5088364
+Erie,Eco,American,141.3716694
+Erie Control,Eco,American,23.5619449
+Erie Control,Eco,American,42.41150082
+Erie Control,Eco,American,23.5619449
+Erie Control,Eco,American,19.63495408
+Erie Control,Eco,American,19.63495408
+Erie Control,Eco,American,112.3119374
+Maryland,Eco,American,438.2521752
+Maryland,Eco,American,671.5154297
+Maryland,Eco,American,520.7189823
+Maryland,Eco,American,120.165919
+Maryland,Eco,American,196.3495408
+Maryland,Eco,American,148.4402529
+Maryland Control,Eco,American,353.4291735
+Maryland Control,Eco,American,19.63495408
+Maryland Control,Eco,American,23.5619449
+Maryland Control,Eco,American,19.63495408
+Maryland Control,Eco,American,82.46680716
+Maryland Control,Eco,American,28.27433388
+University Park,Eco,American,87.9645943
+University Park,Eco,American,502.6548246
+University Park,Eco,American,113.0973355
+University Park,Eco,American,76.96902001
+University Park,Eco,American,274.8893572
+University Park,Eco,American,71.47123287
+University Park Control,Eco,American,42.41150082
+University Park Control,Eco,American,19.63495408
+University Park Control,Eco,American,28.27433388
+University Park Control,Eco,American,19.63495408
+University Park Control,Eco,American,28.27433388
+University Park Control,Eco,American,47.1238898
+Erie,Eco,Chinese,32.98672286
+Erie,Eco,Chinese,54.97787144
+Erie,Eco,Chinese,37.69911184
+Erie,Eco,Chinese,650.3096793
+Erie,Eco,Chinese,56.54866776
+Erie,Eco,Chinese,862.3671834
+Erie Control,Eco,Chinese,
+Erie Control,Eco,Chinese,27.48893572
+Erie Control,Eco,Chinese,32.98672286
+Erie Control,Eco,Chinese,32.98672286
+Erie Control,Eco,Chinese,28.27433388
+Erie Control,Eco,Chinese,138.2300768
+Maryland,Eco,Chinese,43.98229715
+Maryland,Eco,Chinese,395.8406744
+Maryland,Eco,Chinese,65.97344573
+Maryland,Eco,Chinese,
+Maryland,Eco,Chinese,357.3561643
+Maryland,Eco,Chinese,70.68583471
+Maryland Control,Eco,Chinese,61.26105675
+Maryland Control,Eco,Chinese,37.69911184
+Maryland Control,Eco,Chinese,106.0287521
+Maryland Control,Eco,Chinese,28.27433388
+Maryland Control,Eco,Chinese,38.48451001
+Maryland Control,Eco,Chinese,23.5619449
+University Park,Eco,Chinese,106.0287521
+University Park,Eco,Chinese,38.48451001
+University Park,Eco,Chinese,65.97344573
+University Park,Eco,Chinese,37.69911184
+University Park,Eco,Chinese,37.69911184
+University Park,Eco,Chinese,115.45353
+University Park Control,Eco,Chinese,28.27433388
+University Park Control,Eco,Chinese,54.97787144
+University Park Control,Eco,Chinese,56.54866776
+University Park Control,Eco,Chinese,28.27433388
+University Park Control,Eco,Chinese,27.48893572
+University Park Control,Eco,Chinese,42.41150082
+Erie,Eco,Hybrid,731.2056901
+Erie,Eco,Hybrid,190.0663555
+Erie,Eco,Hybrid,62.83185307
+Erie,Eco,Hybrid,791.6813487
+Erie,Eco,Hybrid,1288.052988
+Erie,Eco,Hybrid,263.8937829
+Erie Control,Eco,Hybrid,32.98672286
+Erie Control,Eco,Hybrid,28.27433388
+Erie Control,Eco,Hybrid,94.24777961
+Erie Control,Eco,Hybrid,28.27433388
+Erie Control,Eco,Hybrid,28.27433388
+Erie Control,Eco,Hybrid,659.7344573
+Maryland,Eco,Hybrid,106.0287521
+Maryland,Eco,Hybrid,32.98672286
+Maryland,Eco,Hybrid,263.8937829
+Maryland,Eco,Hybrid,117.8097245
+Maryland,Eco,Hybrid,70.68583471
+Maryland,Eco,Hybrid,188.4955592
+Maryland Control,Eco,Hybrid,19.63495408
+Maryland Control,Eco,Hybrid,32.98672286
+Maryland Control,Eco,Hybrid,275.6747554
+Maryland Control,Eco,Hybrid,28.27433388
+Maryland Control,Eco,Hybrid,28.27433388
+Maryland Control,Eco,Hybrid,28.27433388
+University Park,Eco,Hybrid,86.39379797
+University Park,Eco,Hybrid,81.68140899
+University Park,Eco,Hybrid,113.0973355
+University Park,Eco,Hybrid,69.11503838
+University Park,Eco,Hybrid,75.39822369
+University Park,Eco,Hybrid,408.407045
+University Park Control,Eco,Hybrid,49.48008429
+University Park Control,Eco,Hybrid,19.63495408
+University Park Control,Eco,Hybrid,28.27433388
+University Park Control,Eco,Hybrid,69.11503838
+University Park Control,Eco,Hybrid,19.63495408
+University Park Control,Eco,Hybrid,23.5619449
+Erie,Active,Red,215.9844949
+Erie,Active,Red,282.7433388
+Erie,Active,Red,387.2012946
+Erie,Active,Red,2120.575041
+Erie,Active,Red,439.8229715
+Erie,Active,Red,259.1813939
+Erie,Active,Red,402.9092578
+Erie,Active,Red,38.48451001
+Erie Control,Active,Red,43.98229715
+Erie Control,Active,Red,28.27433388
+Erie Control,Active,Red,207.3451151
+Erie Control,Active,Red,198.7057353
+Erie Control,Active,Red,28.27433388
+Erie Control,Active,Red,65.97344573
+Erie Control,Active,Red,2356.19449
+Erie Control,Active,Red,19.63495408
+Maryland,Active,Red,109.9557429
+Maryland,Active,Red,109.9557429
+Maryland,Active,Red,141.3716694
+Maryland,Active,Red,1762.433479
+Maryland,Active,Red,224.6238747
+Maryland,Active,Red,367.5663405
+Maryland,Active,Red,172.7875959
+Maryland,Active,Red,129.590697
+Maryland Control,Active,Red,
+Maryland Control,Active,Red,
+Maryland Control,Active,Red,19.63495408
+Maryland Control,Active,Red,362.8539515
+Maryland Control,Active,Red,1001.382658
+Maryland Control,Active,Red,54.97787144
+Maryland Control,Active,Red,37.69911184
+Maryland Control,Active,Red,28.27433388
+University Park,Active,Red,230.90706
+University Park,Active,Red,358.1415625
+University Park,Active,Red,316.5154598
+University Park,Active,Red,486.9468613
+University Park,Active,Red,155.5088364
+University Park,Active,Red,113.0973355
+University Park,Active,Red,341.6482011
+University Park,Active,Red,37.69911184
+University Park Control,Active,Red,28.27433388
+University Park Control,Active,Red,125.6637061
+University Park Control,Active,Red,54.97787144
+University Park Control,Active,Red,
+University Park Control,Active,Red,82.46680716
+University Park Control,Active,Red,38.48451001
+University Park Control,Active,Red,
+University Park Control,Active,Red,23.5619449
+Erie,Active,Pin,1330.464489
+Erie,Active,Pin,3063.052837
+Erie,Active,Pin,54.97787144
+Erie,Active,Pin,37.69911184
+Erie,Active,Pin,816.8140899
+Erie,Active,Pin,62.83185307
+Erie,Active,Pin,
+Erie,Active,Pin,54.97787144
+Erie Control,Active,Pin,188.4955592
+Erie Control,Active,Pin,196.3495408
+Erie Control,Active,Pin,23.5619449
+Erie Control,Active,Pin,28.27433388
+Erie Control,Active,Pin,23.5619449
+Erie Control,Active,Pin,32.98672286
+Erie Control,Active,Pin,23.5619449
+Erie Control,Active,Pin,
+Maryland,Active,Pin,215.9844949
+Maryland,Active,Pin,
+Maryland,Active,Pin,81.68140899
+Maryland,Active,Pin,578.0530483
+Maryland,Active,Pin,2238.384766
+Maryland,Active,Pin,285.0995333
+Maryland,Active,Pin,75.39822369
+Maryland,Active,Pin,54.97787144
+Maryland Control,Active,Pin,28.27433388
+Maryland Control,Active,Pin,32.98672286
+Maryland Control,Active,Pin,27.48893572
+Maryland Control,Active,Pin,28.27433388
+Maryland Control,Active,Pin,28.27433388
+Maryland Control,Active,Pin,
+Maryland Control,Active,Pin,23.5619449
+Maryland Control,Active,Pin,42.41150082
+University Park,Active,Pin,247.4004215
+University Park,Active,Pin,329.8672286
+University Park,Active,Pin,1747.510914
+University Park,Active,Pin,701.3605599
+University Park,Active,Pin,141.3716694
+University Park,Active,Pin,2356.19449
+University Park,Active,Pin,49.48008429
+University Park,Active,Pin,141.3716694
+University Park Control,Active,Pin,42.41150082
+University Park Control,Active,Pin,23.5619449
+University Park Control,Active,Pin,2120.575041
+University Park Control,Active,Pin,28.27433388
+University Park Control,Active,Pin,23.5619449
+University Park Control,Active,Pin,301.5928947
+University Park Control,Active,Pin,494.0154448
+University Park Control,Active,Pin,32.98672286
+Erie,Active,White,62.83185307
+Erie,Active,White,49.48008429
+Erie,Active,White,157.0796327
+Erie,Active,White,3180.862562
+Erie,Active,White,
+Erie,Active,White,2827.433388
+Erie,Active,White,1724.734367
+Erie,Active,White,28.27433388
+Erie Control,Active,White,28.27433388
+Erie Control,Active,White,3298.672286
+Erie Control,Active,White,2474.004215
+Erie Control,Active,White,84.82300165
+Erie Control,Active,White,81.68140899
+Erie Control,Active,White,19.63495408
+Erie Control,Active,White,296.8805058
+Erie Control,Active,White,
+Maryland,Active,White,62.83185307
+Maryland,Active,White,77.75441818
+Maryland,Active,White,100.5309649
+Maryland,Active,White,2276.083878
+Maryland,Active,White,2474.004215
+Maryland,Active,White,2356.19449
+Maryland,Active,White,2356.19449
+Maryland,Active,White,43.98229715
+Maryland Control,Active,White,28.27433388
+Maryland Control,Active,White,
+Maryland Control,Active,White,32.98672286
+Maryland Control,Active,White,27.48893572
+Maryland Control,Active,White,
+Maryland Control,Active,White,2474.004215
+Maryland Control,Active,White,3180.862562
+Maryland Control,Active,White,
+University Park,Active,White,1963.495408
+University Park,Active,White,2827.433388
+University Park,Active,White,2002.765317
+University Park,Active,White,659.7344573
+University Park,Active,White,2591.813939
+University Park,Active,White,2591.813939
+University Park,Active,White,2945.243113
+University Park,Active,White,3063.052837
+University Park Control,Active,White,2945.243113
+University Park Control,Active,White,285.8849315
+University Park Control,Active,White,2591.813939
+University Park Control,Active,White,
+University Park Control,Active,White,2356.19449
+University Park Control,Active,White,2709.623664
+University Park Control,Active,White,
+University Park Control,Active,White,
+Erie,Active,Beech,316.5154598
+Erie,Active,Beech,172.7875959
+Erie,Active,Beech,180.6415776
+Erie,Active,Beech,348.7167845
+Erie,Active,Beech,214.4136986
+Erie,Active,Beech,84.82300165
+Erie,Active,Beech,412.3340358
+Erie,Active,Beech,254.4690049
+Erie Control,Active,Beech,100.5309649
+Erie Control,Active,Beech,81.68140899
+Erie Control,Active,Beech,148.4402529
+Erie Control,Active,Beech,157.0796327
+Erie Control,Active,Beech,204.2035225
+Erie Control,Active,Beech,155.5088364
+Erie Control,Active,Beech,157.0796327
+Erie Control,Active,Beech,196.3495408
+Maryland,Active,Beech,516.7919915
+Maryland,Active,Beech,306.3052837
+Maryland,Active,Beech,1138.827337
+Maryland,Active,Beech,149.225651
+Maryland,Active,Beech,600.829595
+Maryland,Active,Beech,106.8141502
+Maryland,Active,Beech,314.1592654
+Maryland,Active,Beech,380.1327111
+Maryland Control,Active,Beech,75.39822369
+Maryland Control,Active,Beech,75.39822369
+Maryland Control,Active,Beech,28.27433388
+Maryland Control,Active,Beech,307.8760801
+Maryland Control,Active,Beech,270.9623664
+Maryland Control,Active,Beech,247.4004215
+Maryland Control,Active,Beech,181.4269757
+Maryland Control,Active,Beech,141.3716694
+University Park,Active,Beech,104.4579557
+University Park,Active,Beech,188.4955592
+University Park,Active,Beech,417.8318229
+University Park,Active,Beech,477.5220833
+University Park,Active,Beech,741.4158662
+University Park,Active,Beech,141.3716694
+University Park,Active,Beech,204.2035225
+University Park,Active,Beech,540.3539364
+University Park Control,Active,Beech,2945.243113
+University Park Control,Active,Beech,38.48451001
+University Park Control,Active,Beech,149.225651
+University Park Control,Active,Beech,
+University Park Control,Active,Beech,603.1857895
+University Park Control,Active,Beech,628.3185307
+University Park Control,Active,Beech,459.4579256
+University Park Control,Active,Beech,791.6813487
+Erie,Active,American,47.1238898
+Erie,Active,American,895.3539063
+Erie,Active,American,325.1548396
+Erie,Active,American,722.5663103
+Erie,Active,American,708.4291434
+Erie,Active,American,1319.468915
+Erie,Active,American,1374.446786
+Erie,Active,American,43.98229715
+Erie Control,Active,American,367.5663405
+Erie Control,Active,American,23.5619449
+Erie Control,Active,American,37.69911184
+Erie Control,Active,American,212.0575041
+Erie Control,Active,American,19.63495408
+Erie Control,Active,American,23.5619449
+Erie Control,Active,American,593.7610115
+Erie Control,Active,American,81.68140899
+Maryland,Active,American,340.8628029
+Maryland,Active,American,911.0618695
+Maryland,Active,American,459.4579256
+Maryland,Active,American,452.3893421
+Maryland,Active,American,921.2720457
+Maryland,Active,American,1738.871534
+Maryland,Active,American,777.5441818
+Maryland,Active,American,
+Maryland Control,Active,American,471.238898
+Maryland Control,Active,American,28.27433388
+Maryland Control,Active,American,51.83627878
+Maryland Control,Active,American,19.63495408
+Maryland Control,Active,American,32.98672286
+Maryland Control,Active,American,23.5619449
+Maryland Control,Active,American,23.5619449
+Maryland Control,Active,American,23.5619449
+University Park,Active,American,502.6548246
+University Park,Active,American,376.9911184
+University Park,Active,American,224.6238747
+University Park,Active,American,1409.004305
+University Park,Active,American,292.1681168
+University Park,Active,American,353.4291735
+University Park,Active,American,848.2300165
+University Park,Active,American,1413.716694
+University Park Control,Active,American,28.27433388
+University Park Control,Active,American,117.8097245
+University Park Control,Active,American,38.48451001
+University Park Control,Active,American,23.5619449
+University Park Control,Active,American,38.48451001
+University Park Control,Active,American,23.5619449
+University Park Control,Active,American,23.5619449
+University Park Control,Active,American,32.98672286
+Erie,Active,Chinese,1079.922475
+Erie,Active,Chinese,714.7123287
+Erie,Active,Chinese,84.82300165
+Erie,Active,Chinese,2375.829444
+Erie,Active,Chinese,989.6016859
+Erie,Active,Chinese,1589.645883
+Erie,Active,Chinese,1204.800783
+Erie,Active,Chinese,1138.827337
+Erie Control,Active,Chinese,98.96016859
+Erie Control,Active,Chinese,549.7787144
+Erie Control,Active,Chinese,241.9026343
+Erie Control,Active,Chinese,28.27433388
+Erie Control,Active,Chinese,32.98672286
+Erie Control,Active,Chinese,94.24777961
+Erie Control,Active,Chinese,23.5619449
+Erie Control,Active,Chinese,
+Maryland,Active,Chinese,2042.035225
+Maryland,Active,Chinese,1197.732199
+Maryland,Active,Chinese,848.2300165
+Maryland,Active,Chinese,522.2897787
+Maryland,Active,Chinese,2438.661297
+Maryland,Active,Chinese,1017.87602
+Maryland,Active,Chinese,306.3052837
+Maryland,Active,Chinese,2582.389161
+Maryland Control,Active,Chinese,589.0486225
+Maryland Control,Active,Chinese,1472.621556
+Maryland Control,Active,Chinese,
+Maryland Control,Active,Chinese,
+Maryland Control,Active,Chinese,
+Maryland Control,Active,Chinese,19.63495408
+Maryland Control,Active,Chinese,
+Maryland Control,Active,Chinese,28.27433388
+University Park,Active,Chinese,922.842842
+University Park,Active,Chinese,2199.114858
+University Park,Active,Chinese,1264.491043
+University Park,Active,Chinese,2709.623664
+University Park,Active,Chinese,2523.484299
+University Park,Active,Chinese,926.7698328
+University Park,Active,Chinese,1946.216649
+University Park,Active,Chinese,1036.725576
+University Park Control,Active,Chinese,82.46680716
+University Park Control,Active,Chinese,32.98672286
+University Park Control,Active,Chinese,
+University Park Control,Active,Chinese,
+University Park Control,Active,Chinese,28.27433388
+University Park Control,Active,Chinese,61.26105675
+University Park Control,Active,Chinese,28.27433388
+University Park Control,Active,Chinese,28.27433388
+Erie,Active,Hybrid,254.4690049
+Erie,Active,Hybrid,769.6902001
+Erie,Active,Hybrid,125.6637061
+Erie,Active,Hybrid,325.1548396
+Erie,Active,Hybrid,245.044227
+Erie,Active,Hybrid,106.8141502
+Erie,Active,Hybrid,675.4424205
+Erie,Active,Hybrid,125.6637061
+Erie Control,Active,Hybrid,28.27433388
+Erie Control,Active,Hybrid,28.27433388
+Erie Control,Active,Hybrid,23.5619449
+Erie Control,Active,Hybrid,19.63495408
+Erie Control,Active,Hybrid,28.27433388
+Erie Control,Active,Hybrid,23.5619449
+Erie Control,Active,Hybrid,37.69911184
+Erie Control,Active,Hybrid,738.2742736
+Maryland,Active,Hybrid,716.283125
+Maryland,Active,Hybrid,164.1482162
+Maryland,Active,Hybrid,794.8229414
+Maryland,Active,Hybrid,353.4291735
+Maryland,Active,Hybrid,1566.869336
+Maryland,Active,Hybrid,659.7344573
+Maryland,Active,Hybrid,198.7057353
+Maryland,Active,Hybrid,417.8318229
+Maryland Control,Active,Hybrid,43.98229715
+Maryland Control,Active,Hybrid,413.9048321
+Maryland Control,Active,Hybrid,19.63495408
+Maryland Control,Active,Hybrid,23.5619449
+Maryland Control,Active,Hybrid,224.6238747
+Maryland Control,Active,Hybrid,19.63495408
+Maryland Control,Active,Hybrid,23.5619449
+Maryland Control,Active,Hybrid,43.98229715
+University Park,Active,Hybrid,829.3804605
+University Park,Active,Hybrid,863.9379797
+University Park,Active,Hybrid,1112.123799
+University Park,Active,Hybrid,
+University Park,Active,Hybrid,408.407045
+University Park,Active,Hybrid,1178.097245
+University Park,Active,Hybrid,923.6282402
+University Park,Active,Hybrid,1021.017612
+University Park Control,Active,Hybrid,62.83185307
+University Park Control,Active,Hybrid,593.7610115
+University Park Control,Active,Hybrid,28.27433388
+University Park Control,Active,Hybrid,19.63495408
+University Park Control,Active,Hybrid,19.63495408
+University Park Control,Active,Hybrid,28.27433388
+University Park Control,Active,Hybrid,23.5619449
+University Park Control,Active,Hybrid,23.5619449

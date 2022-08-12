@@ -1,0 +1,32 @@
+Treatment,Tree #,Name,e-value,Query cover,Percent identity,Accession
+15,15H,Gnomoniopsis smithogilvyi MIFCC501,0,98,99.65,MK554867.1
+48,48C,Gnomoniopsis smithogilvyi MIFCC501,0,99,99.65,MK554867.1
+56,56O,Gnomoniopsis smithogilvyi MIFCC501,0,99,99.83,MK554867.1
+62,62O,Alternaria alternata Aalt-A,0,99,99.09,KX270357.2
+68,68O,Fusarium solani-melongenae 3039537,0,97,99.81,MW960645.1
+69,69A,Gnomoniopsis smithogilvyi MIFCC501,0,99,99.65,MK554867.1
+71,71H,Gnomoniopsis smithogilvyi MIFCC501,0,99,99.65,MK554867.1
+72,72O,Alternaria alternata JUF0046,0,99,99.82,MN886590.1
+75,75C,Gnomoniopsis smithogilvyi MIFCC501,0,99,99.82,MK554867.1
+87,87O,Gnomoniopsis castanea BID15,0,98,100,LN999963.1
+88,88A,Gnomoniopsis smithogilvyi MIFCC501,0,98,99.82,MK554867.1
+94,94O,Cladosporium sphaerospermum 307-G6 ,0,99,99.4,MF473270.1
+100,17C,Didymella anserina,0,95,100,MH855074.1
+101,17C,Nemania sp.,0,99,99.82,MG098265.1
+102,18H,Alternaria sp.,0,97,100,MT524302.1
+103,18H,Penicillium camemberti,0,99,99.64,MF683449.1
+104,20O,Alternaria alternata,0,97,100,MT573466.1
+105,20O,Epicocum nigrum,0,97,100,MT573479.1
+106,33A,Penicillium amphipolaria,0,99,99.65,DQ132832.1
+107,33A,Alternaria alternata JUG0046,0,99,99.82,MN886590.1
+108,35C,Epicoccum nigrum 180305-015_G19_L02-1,0,96,100,MH042300.1
+109,44A,Didymella calidophila CBS 448.83,0,97,99.8,MH861623.1
+110,44A,Aspergillus welwitschiae 1063,0,100,99.14,KT826630.1
+111,45C,Cladosporium tenuissimum ss_26.1,0,97,100,MT497425.1
+112,60A,Alternaria sp. JZB380001,0,99,98.73,MK063690.1
+113,61C,Alternaria alternata aa2,0,99,98.9,MT556702.1
+114,66O,Daldinia childiae KoRLI046311,0,95,97.55,MN341611.1
+115,83A,Epicoccum sorghinum SFC102353,0,64,99.6,MH374580.1
+116,86H,Fusarium proliferatum YY10,0,97,100,MT123028.1
+117,93C,Epicoccum layuense 17,0,97,100,MT573479.1
+118,28* base canker,Cryphonectria parasitica,0,96,100,MT256126.1

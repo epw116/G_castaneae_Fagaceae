@@ -1,0 +1,601 @@
+Treatment,Test,Species,Rank
+Maryland,Nov,Red,1
+Maryland,Nov,Red,0
+Erie,Nov,Red,0
+Erie,Nov,Red,0
+Erie,Nov,Red,0
+Maryland,Nov,Red,1
+Erie,Nov,Red,0
+University Park,Nov,Red,1
+Control,Nov,Red,1
+Erie,Nov,Red,0
+Control,Nov,Red,0
+Maryland,Nov,Red,1
+Maryland,Nov,Red,1
+Control,Nov,Red,0
+Maryland,Nov,Red,0
+Maryland,Nov,Red,0
+Control,Nov,Red,0
+Control,Nov,Red,0
+Maryland,Nov,Red,1
+University Park,Nov,Red,1
+Erie,Nov,Red,0
+University Park,Nov,Red,2
+Control,Nov,Red,0
+University Park,Nov,Red,1
+Control,Nov,Red,1
+Maryland,Nov,Red,0
+University Park,Nov,Red,1
+University Park,Nov,Red,0
+Erie,Nov,Red,0
+Erie,Nov,Red,0
+Erie,Nov,Red,0
+Control,Nov,Red,0
+Erie,Nov,Red,1
+Erie,Nov,Red,0
+Control,Nov,Red,0
+Control,Nov,Red,0
+University Park,Nov,Red,
+Erie,Nov,Red,1
+Maryland,Nov,Red,1
+University Park,Nov,Red,1
+University Park,Nov,Red,1
+Maryland,Nov,Red,1
+Control,Nov,Red,
+Control,Nov,Red,0
+Maryland,Nov,Red,0
+University Park,Nov,Red,1
+Erie,Nov,Red,
+University Park,Nov,Red,0
+University Park,Nov,Red,0
+University Park,Nov,Red,0
+Control,Nov,Red,0
+Maryland,Nov,Red,1
+Erie,Nov,Red,1
+Control,Nov,Red,0
+Maryland,Nov,Red,1
+Control,Nov,Red,1
+University Park,Nov,Red,1
+University Park,Nov,Red,
+Erie,Nov,Red,0
+Maryland,Nov,Red,1
+Control,Nov,Red,0
+Maryland,Nov,Red,4
+University Park,Nov,Red,1
+Erie,Nov,Red,1
+Control,Nov,Red,
+University Park,Nov,Red,0
+University Park,Nov,Red,1
+University Park,Nov,Red,1
+Erie,Nov,Red,0
+Maryland,Nov,Red,1
+Maryland,Nov,Red,1
+Control,Nov,Red,0
+University Park,Nov,Red,0
+University Park,Nov,Red,
+Control,Nov,Red,0
+Control,Nov,Red,0
+Maryland,Nov,Red,1
+Erie,Nov,Red,0
+Erie,Nov,Red,1
+University Park,Nov,Red,0
+University Park,Nov,Red,1
+Control,Nov,Red,0
+University Park,Nov,Red,1
+Erie,Nov,Red,0
+Control,Nov,Red,0
+Maryland,Nov,Red,0
+Erie,Nov,Red,0
+Maryland,Nov,Red,1
+Maryland,Nov,Red,0
+Maryland,Nov,Red,1
+Control,Nov,Red,0
+Erie,Nov,Red,0
+Control,Nov,Red,0
+Erie,Nov,Red,0
+Maryland,Nov,Red,1
+Erie,Nov,Red,0
+Control,Nov,Red,0
+University Park,Nov,Red,1
+Maryland,Nov,Red,1
+Erie,Nov,Red,1
+Maryland,Nov,Pin,2
+Maryland,Nov,Pin,1
+Erie,Nov,Pin,1
+Erie,Nov,Pin,0
+Erie,Nov,Pin,1
+Maryland,Nov,Pin,1
+Erie,Nov,Pin,3
+University Park,Nov,Pin,2
+Control,Nov,Pin,0
+Erie,Nov,Pin,1
+Control,Nov,Pin,0
+Maryland,Nov,Pin,1
+Maryland,Nov,Pin,2
+Control,Nov,Pin,0
+Maryland,Nov,Pin,2
+Maryland,Nov,Pin,1
+Control,Nov,Pin,0
+Control,Nov,Pin,2
+Maryland,Nov,Pin,1
+University Park,Nov,Pin,1
+Erie,Nov,Pin,1
+University Park,Nov,Pin,1
+Control,Nov,Pin,0
+University Park,Nov,Pin,1
+Control,Nov,Pin,1
+Maryland,Nov,Pin,1
+University Park,Nov,Pin,1
+University Park,Nov,Pin,1
+Erie,Nov,Pin,1
+Erie,Nov,Pin,0
+Erie,Nov,Pin,1
+Control,Nov,Pin,0
+Erie,Nov,Pin,1
+Erie,Nov,Pin,0
+Control,Nov,Pin,0
+Control,Nov,Pin,1
+University Park,Nov,Pin,1
+Erie,Nov,Pin,3
+Maryland,Nov,Pin,1
+University Park,Nov,Pin,0
+University Park,Nov,Pin,1
+Maryland,Nov,Pin,2
+Control,Nov,Pin,1
+Control,Nov,Pin,4
+Maryland,Nov,Pin,1
+University Park,Nov,Pin,1
+Erie,Nov,Pin,1
+University Park,Nov,Pin,0
+University Park,Nov,Pin,0
+University Park,Nov,Pin,0
+Control,Nov,Pin,0
+Maryland,Nov,Pin,
+Erie,Nov,Pin,1
+Control,Nov,Pin,0
+Maryland,Nov,Pin,0
+Control,Nov,Pin,0
+University Park,Nov,Pin,1
+University Park,Nov,Pin,2
+Erie,Nov,Pin,1
+Maryland,Nov,Pin,0
+Control,Nov,Pin,1
+Maryland,Nov,Pin,1
+University Park,Nov,Pin,0
+Erie,Nov,Pin,1
+Control,Nov,Pin,1
+University Park,Nov,Pin,1
+University Park,Nov,Pin,1
+University Park,Nov,Pin,1
+Erie,Nov,Pin,2
+Maryland,Nov,Pin,1
+Maryland,Nov,Pin,1
+Control,Nov,Pin,0
+University Park,Nov,Pin,1
+University Park,Nov,Pin,0
+Control,Nov,Pin,0
+Control,Nov,Pin,0
+Maryland,Nov,Pin,1
+Erie,Nov,Pin,0
+Erie,Nov,Pin,1
+University Park,Nov,Pin,1
+University Park,Nov,Pin,1
+Control,Nov,Pin,1
+University Park,Nov,Pin,1
+Erie,Nov,Pin,1
+Control,Nov,Pin,3
+Maryland,Nov,Pin,1
+Erie,Nov,Pin,1
+Maryland,Nov,Pin,1
+Maryland,Nov,Pin,1
+Maryland,Nov,Pin,1
+Control,Nov,Pin,0
+Erie,Nov,Pin,1
+Control,Nov,Pin,0
+Erie,Nov,Pin,3
+Maryland,Nov,Pin,1
+Erie,Nov,Pin,1
+Control,Nov,Pin,0
+University Park,Nov,Pin,1
+Maryland,Nov,Pin,1
+Erie,Nov,Pin,1
+Maryland,Nov,White,0
+Maryland,Nov,White,0
+Erie,Nov,White,1
+Erie,Nov,White,0
+Erie,Nov,White,1
+Maryland,Nov,White,1
+Erie,Nov,White,0
+University Park,Nov,White,1
+Control,Nov,White,3
+Erie,Nov,White,0
+Control,Nov,White,0
+Maryland,Nov,White,1
+Maryland,Nov,White,1
+Control,Nov,White,0
+Maryland,Nov,White,1
+Maryland,Nov,White,0
+Control,Nov,White,1
+Control,Nov,White,0
+Maryland,Nov,White,0
+University Park,Nov,White,1
+Erie,Nov,White,4
+University Park,Nov,White,1
+Control,Nov,White,0
+University Park,Nov,White,1
+Control,Nov,White,0
+Maryland,Nov,White,1
+University Park,Nov,White,1
+University Park,Nov,White,2
+Erie,Nov,White,0
+Erie,Nov,White,1
+Erie,Nov,White,1
+Control,Nov,White,1
+Erie,Nov,White,1
+Erie,Nov,White,0
+Control,Nov,White,0
+Control,Nov,White,0
+University Park,Nov,White,1
+Erie,Nov,White,0
+Maryland,Nov,White,1
+University Park,Nov,White,0
+University Park,Nov,White,1
+Maryland,Nov,White,1
+Control,Nov,White,1
+Control,Nov,White,0
+Maryland,Nov,White,1
+University Park,Nov,White,1
+Erie,Nov,White,0
+University Park,Nov,White,0
+University Park,Nov,White,1
+University Park,Nov,White,1
+Control,Nov,White,0
+Maryland,Nov,White,1
+Erie,Nov,White,1
+Control,Nov,White,0
+Maryland,Nov,White,1
+Control,Nov,White,1
+University Park,Nov,White,1
+University Park,Nov,White,0
+Erie,Nov,White,1
+Maryland,Nov,White,1
+Control,Nov,White,1
+Maryland,Nov,White,1
+University Park,Nov,White,1
+Erie,Nov,White,0
+Control,Nov,White,1
+University Park,Nov,White,1
+University Park,Nov,White,1
+University Park,Nov,White,0
+Erie,Nov,White,1
+Maryland,Nov,White,0
+Maryland,Nov,White,1
+Control,Nov,White,0
+University Park,Nov,White,1
+University Park,Nov,White,1
+Control,Nov,White,2
+Control,Nov,White,0
+Maryland,Nov,White,0
+Erie,Nov,White,0
+Erie,Nov,White,1
+University Park,Nov,White,0
+University Park,Nov,White,0
+Control,Nov,White,0
+University Park,Nov,White,1
+Erie,Nov,White,0
+Control,Nov,White,0
+Maryland,Nov,White,1
+Erie,Nov,White,1
+Maryland,Nov,White,1
+Maryland,Nov,White,0
+Maryland,Nov,White,1
+Control,Nov,White,0
+Erie,Nov,White,0
+Control,Nov,White,0
+Erie,Nov,White,0
+Maryland,Nov,White,1
+Erie,Nov,White,1
+Control,Nov,White,0
+University Park,Nov,White,1
+Maryland,Nov,White,1
+Erie,Nov,White,1
+Maryland,Dec,Red,1
+Maryland,Dec,Red,0
+Erie,Dec,Red,1
+Erie,Dec,Red,1
+Erie,Dec,Red,1
+Maryland,Dec,Red,0
+Erie,Dec,Red,1
+University Park,Dec,Red,1
+Control,Dec,Red,1
+Erie,Dec,Red,0
+Control,Dec,Red,0
+Maryland,Dec,Red,0
+Maryland,Dec,Red,1
+Control,Dec,Red,0
+Maryland,Dec,Red,1
+Maryland,Dec,Red,1
+Control,Dec,Red,1
+Control,Dec,Red,0
+Maryland,Dec,Red,1
+University Park,Dec,Red,1
+Erie,Dec,Red,4
+University Park,Dec,Red,1
+Control,Dec,Red,1
+University Park,Dec,Red,1
+Control,Dec,Red,1
+Maryland,Dec,Red,0
+University Park,Dec,Red,1
+University Park,Dec,Red,1
+Erie,Dec,Red,4
+Erie,Dec,Red,1
+Erie,Dec,Red,1
+Control,Dec,Red,0
+Erie,Dec,Red,3
+Erie,Dec,Red,1
+Control,Dec,Red,0
+Control,Dec,Red,1
+University Park,Dec,Red,1
+Erie,Dec,Red,1
+Maryland,Dec,Red,1
+University Park,Dec,Red,1
+University Park,Dec,Red,0
+Maryland,Dec,Red,1
+Control,Dec,Red,0
+Control,Dec,Red,0
+Maryland,Dec,Red,0
+University Park,Dec,Red,0
+Erie,Dec,Red,1
+University Park,Dec,Red,1
+University Park,Dec,Red,
+University Park,Dec,Red,1
+Control,Dec,Red,0
+Maryland,Dec,Red,0
+Erie,Dec,Red,0
+Control,Dec,Red,
+Maryland,Dec,Red,0
+Control,Dec,Red,0
+University Park,Dec,Red,1
+University Park,Dec,Red,1
+Erie,Dec,Red,0
+Maryland,Dec,Red,4
+Control,Dec,Red,0
+Maryland,Dec,Red,0
+University Park,Dec,Red,1
+Erie,Dec,Red,1
+Control,Dec,Red,
+University Park,Dec,Red,1
+University Park,Dec,Red,1
+University Park,Dec,Red,1
+Erie,Dec,Red,1
+Maryland,Dec,Red,0
+Maryland,Dec,Red,1
+Control,Dec,Red,0
+University Park,Dec,Red,2
+University Park,Dec,Red,1
+Control,Dec,Red,0
+Control,Dec,Red,1
+Maryland,Dec,Red,1
+Erie,Dec,Red,1
+Erie,Dec,Red,0
+University Park,Dec,Red,1
+University Park,Dec,Red,1
+Control,Dec,Red,1
+University Park,Dec,Red,0
+Erie,Dec,Red,3
+Control,Dec,Red,1
+Maryland,Dec,Red,
+Erie,Dec,Red,2
+Maryland,Dec,Red,1
+Maryland,Dec,Red,1
+Maryland,Dec,Red,1
+Control,Dec,Red,0
+Erie,Dec,Red,1
+Control,Dec,Red,0
+Erie,Dec,Red,1
+Maryland,Dec,Red,4
+Erie,Dec,Red,1
+Control,Dec,Red,1
+University Park,Dec,Red,1
+Maryland,Dec,Red,0
+Erie,Dec,Red,1
+Maryland,Dec,Pin,1
+Maryland,Dec,Pin,1
+Erie,Dec,Pin,3
+Erie,Dec,Pin,2
+Erie,Dec,Pin,1
+Maryland,Dec,Pin,1
+Erie,Dec,Pin,2
+University Park,Dec,Pin,2
+Control,Dec,Pin,3
+Erie,Dec,Pin,1
+Control,Dec,Pin,0
+Maryland,Dec,Pin,1
+Maryland,Dec,Pin,3
+Control,Dec,Pin,0
+Maryland,Dec,Pin,1
+Maryland,Dec,Pin,1
+Control,Dec,Pin,1
+Control,Dec,Pin,3
+Maryland,Dec,Pin,3
+University Park,Dec,Pin,3
+Erie,Dec,Pin,3
+University Park,Dec,Pin,1
+Control,Dec,Pin,1
+University Park,Dec,Pin,2
+Control,Dec,Pin,0
+Maryland,Dec,Pin,1
+University Park,Dec,Pin,1
+University Park,Dec,Pin,3
+Erie,Dec,Pin,1
+Erie,Dec,Pin,1
+Erie,Dec,Pin,1
+Control,Dec,Pin,0
+Erie,Dec,Pin,2
+Erie,Dec,Pin,3
+Control,Dec,Pin,0
+Control,Dec,Pin,1
+University Park,Dec,Pin,1
+Erie,Dec,Pin,4
+Maryland,Dec,Pin,1
+University Park,Dec,Pin,1
+University Park,Dec,Pin,1
+Maryland,Dec,Pin,1
+Control,Dec,Pin,0
+Control,Dec,Pin,0
+Maryland,Dec,Pin,1
+University Park,Dec,Pin,2
+Erie,Dec,Pin,1
+University Park,Dec,Pin,1
+University Park,Dec,Pin,1
+University Park,Dec,Pin,1
+Control,Dec,Pin,1
+Maryland,Dec,Pin,1
+Erie,Dec,Pin,1
+Control,Dec,Pin,1
+Maryland,Dec,Pin,1
+Control,Dec,Pin,1
+University Park,Dec,Pin,
+University Park,Dec,Pin,4
+Erie,Dec,Pin,3
+Maryland,Dec,Pin,1
+Control,Dec,Pin,0
+Maryland,Dec,Pin,1
+University Park,Dec,Pin,1
+Erie,Dec,Pin,3
+Control,Dec,Pin,
+University Park,Dec,Pin,3
+University Park,Dec,Pin,1
+University Park,Dec,Pin,1
+Erie,Dec,Pin,1
+Maryland,Dec,Pin,1
+Maryland,Dec,Pin,1
+Control,Dec,Pin,0
+University Park,Dec,Pin,1
+University Park,Dec,Pin,2
+Control,Dec,Pin,0
+Control,Dec,Pin,0
+Maryland,Dec,Pin,1
+Erie,Dec,Pin,3
+Erie,Dec,Pin,1
+University Park,Dec,Pin,3
+University Park,Dec,Pin,1
+Control,Dec,Pin,1
+University Park,Dec,Pin,1
+Erie,Dec,Pin,3
+Control,Dec,Pin,1
+Maryland,Dec,Pin,1
+Erie,Dec,Pin,3
+Maryland,Dec,Pin,2
+Maryland,Dec,Pin,3
+Maryland,Dec,Pin,1
+Control,Dec,Pin,0
+Erie,Dec,Pin,1
+Control,Dec,Pin,
+Erie,Dec,Pin,3
+Maryland,Dec,Pin,1
+Erie,Dec,Pin,1
+Control,Dec,Pin,1
+University Park,Dec,Pin,1
+Maryland,Dec,Pin,1
+Erie,Dec,Pin,1
+Maryland,Dec,White,1
+Maryland,Dec,White,1
+Erie,Dec,White,1
+Erie,Dec,White,1
+Erie,Dec,White,1
+Maryland,Dec,White,1
+Erie,Dec,White,1
+University Park,Dec,White,1
+Control,Dec,White,0
+Erie,Dec,White,1
+Control,Dec,White,2
+Maryland,Dec,White,1
+Maryland,Dec,White,1
+Control,Dec,White,0
+Maryland,Dec,White,1
+Maryland,Dec,White,1
+Control,Dec,White,2
+Control,Dec,White,0
+Maryland,Dec,White,1
+University Park,Dec,White,1
+Erie,Dec,White,1
+University Park,Dec,White,0
+Control,Dec,White,1
+University Park,Dec,White,1
+Control,Dec,White,0
+Maryland,Dec,White,0
+University Park,Dec,White,1
+University Park,Dec,White,0
+Erie,Dec,White,1
+Erie,Dec,White,1
+Erie,Dec,White,1
+Control,Dec,White,1
+Erie,Dec,White,0
+Erie,Dec,White,1
+Control,Dec,White,1
+Control,Dec,White,0
+University Park,Dec,White,1
+Erie,Dec,White,3
+Maryland,Dec,White,1
+University Park,Dec,White,0
+University Park,Dec,White,1
+Maryland,Dec,White,1
+Control,Dec,White,2
+Control,Dec,White,0
+Maryland,Dec,White,0
+University Park,Dec,White,1
+Erie,Dec,White,1
+University Park,Dec,White,0
+University Park,Dec,White,1
+University Park,Dec,White,1
+Control,Dec,White,0
+Maryland,Dec,White,1
+Erie,Dec,White,1
+Control,Dec,White,0
+Maryland,Dec,White,1
+Control,Dec,White,0
+University Park,Dec,White,
+University Park,Dec,White,0
+Erie,Dec,White,1
+Maryland,Dec,White,1
+Control,Dec,White,0
+Maryland,Dec,White,2
+University Park,Dec,White,1
+Erie,Dec,White,1
+Control,Dec,White,
+University Park,Dec,White,1
+University Park,Dec,White,1
+University Park,Dec,White,0
+Erie,Dec,White,1
+Maryland,Dec,White,1
+Maryland,Dec,White,1
+Control,Dec,White,2
+University Park,Dec,White,0
+University Park,Dec,White,1
+Control,Dec,White,0
+Control,Dec,White,0
+Maryland,Dec,White,1
+Erie,Dec,White,1
+Erie,Dec,White,1
+University Park,Dec,White,1
+University Park,Dec,White,1
+Control,Dec,White,0
+University Park,Dec,White,0
+Erie,Dec,White,1
+Control,Dec,White,1
+Maryland,Dec,White,1
+Erie,Dec,White,1
+Maryland,Dec,White,1
+Maryland,Dec,White,1
+Maryland,Dec,White,1
+Control,Dec,White,1
+Erie,Dec,White,0
+Control,Dec,White,1
+Erie,Dec,White,1
+Maryland,Dec,White,1
+Erie,Dec,White,1
+Control,Dec,White,1
+University Park,Dec,White,1
+Maryland,Dec,White,1
+Erie,Dec,White,1
